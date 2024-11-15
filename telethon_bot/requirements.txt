@@ -1,3 +1,5 @@
 telethon==1.36.0
-requests
 python-dotenv
+tinydb
+emoji
+requests
